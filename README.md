@@ -4,6 +4,14 @@ This project is a terminal-based marble tilt maze using **Pygame**. It introduce
 
 ---
 
+PES1UG24CS350
+---
+Pushkar S Kulkarni
+---
+LLM USED: https://chatgpt.com/share/6abd207a-5894-83ee-8a7c-5142b752f1de
+---
+
+
 ## What’s Provided
 
 A partially working version of a tilt maze with:
